@@ -1,34 +1,84 @@
-<h1 align="center">Hi 👋, I'm VIVEK B S</h1>
-<h3 align="center">An Aspiring AI Engineer & Frontend Developer Crafting Scalable Solutions and Exploring Financial Markets</h3>
+![Vivek's Banner](vivek_banner.jpeg)
+  
+### Hey there! 👋 I'm VIVEK B S
+<a href="https://github.com/astronova001" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/b-s-vivek" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/@vivekbs01" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+  
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astronova001&label=Profile%20views&color=0e75b6&style=flat" alt="astronova001" /> </p>
+### Glad to see you here!  
+👋 Hi, I’m an Aspiring AI Engineer & Frontend Developer crafting scalable solutions and exploring financial markets. Currently, I’m working on a Reinforcement Learning-based Trading Bot with Sentiment Analysis and Advanced Bot Management Features, called **ChadStock - AI-Powered Trading Bot**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astronova001" alt="astronova001" /></a> </p>
+💡 My expertise extends beyond traditional software development. I’m passionate about the intersection of AI, ML, and financial markets, constantly exploring new ways to harness their transformative potential. I bring a problem-solving mindset and a genuine enthusiasm for tackling complex challenges in technology.
 
-<p align="left"> <a href="https://twitter.com/@vivekbs01" target="blank"><img src="https://img.shields.io/twitter/follow/@vivekbs01?logo=twitter&style=for-the-badge" alt="@vivekbs01" /></a> </p>
+🚀 If you're looking for a professional with a robust technical background and a forward-thinking approach, let’s connect!
 
-- 🔭 I’m currently working on a Reinforcement Learning-based Trading Bot with Sentiment Analysis and Advanced Bot Management Features. **ChadStock - AI-Powered Trading Bot**
+🔗 Looking forward to connecting!
 
-- 👨‍💻 All of my projects are available at [https://vivekbs.me/](https://vivekbs.me/)
+---
 
-- 📫 How to reach me **bsvivek2003@gmail.com**
+### 🚀 Achievements
+- 🏆 **AWS Certified Solutions Architect**
+- 🎓 **MS in Computer Engineering** (In progress)
+- 🥇 Contributed to **Drozone** and **Artpark** with impactful cloud solutions and AI innovations.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1G2DtO4bP31Kg7czNCkryz1-Li8O7hExp/view?usp=sharing](https://drive.google.com/file/d/1G2DtO4bP31Kg7czNCkryz1-Li8O7hExp/view?usp=sharing)
+---
 
-- ⚡ Fun fact **I'm a trader who loves analyzing markets and a web developer passionate about building user-friendly applications!**
+### 🌟 Featured Projects
+- [ChadStock - AI-Powered Trading Bot](https://github.com/astronova001/chadstock): A Reinforcement Learning-based Trading Bot with Sentiment Analysis.
+  - **Technologies**: Python, TensorFlow, Docker
+  - ![Stars](https://img.shields.io/github/stars/astronova001/chadstock?style=social) ![Forks](https://img.shields.io/github/forks/astronova001/chadstock?style=social)
+- [Drozone](https://github.com/subhashbs36/drozone): A cutting-edge cloud solution with AI integration.
+  - **Technologies**: AWS, Django, TensorFlow
+  - ![Stars](https://img.shields.io/github/stars/subhashbs36/drozone?style=social) ![Forks](https://img.shields.io/github/forks/subhashbs36/drozone?style=social)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@vivekbs01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vivekbs01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/b-s-vivek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="b-s-vivek" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/astronova001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="astronova001" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 🛠️ Technical Skills
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) 
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=astronova001&show_icons=true&locale=en&layout=compact" alt="astronova001" /></p>
+![Skill Bars](https://github-readme-stats.vercel.app/api/top-langs/?username=astronova001&layout=compact&hide=html&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astronova001&show_icons=true&locale=en" alt="astronova001" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astronova001&" alt="astronova001" /></p>
+### 📊 GitHub Stats
+![Vivek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=astronova001&theme=radical&hide_border=true)
+![Vivek's Activity Graph](https://activity-graph.herokuapp.com/graph?username=astronova001&theme=github)
+
+---
+
+### ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Title of the blog post](https://link-to-your-blog.com)
+- [Another Blog Post](https://link-to-your-blog.com)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📫 Connect with Me!
+[![LinkedIn](https://img.shields.io/badge/-B%20S%20Vivek-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/b-s-vivek/)](https://www.linkedin.com/in/b-s-vivek/)
+[![GitHub](https://img.shields.io/badge/-astronova001-gray?style=flat-square&logo=github&logoColor=white&link=https://github.com/astronova001)](https://github.com/astronova001)
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-ff69b4?style=flat-square)](https://vivekbs.me/)
+
+---
+
+### ⚡ Fun fact:
+I'm a trader who loves analyzing markets and a web developer passionate about building user-friendly applications!
+
+---
+
+![Profile views counter](https://komarev.com/ghpvc/?username=astronova001&&style=flat-square)  
+<br />

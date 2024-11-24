@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-[![GitHub](https://github.com/astronova001/vivek_banner.jpeg)](https://github.com/astronova001)
+![Vivek's Banner](vivek_banner.jpeg)
   
 ### Hey there! 👋 I'm VIVEK B S
 <a href="https://github.com/astronova001" target="_blank"> 

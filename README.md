@@ -25,13 +25,6 @@
 
 ---
 
-### 🚀 Achievements
-- 🏆 **AWS Certified Solutions Architect**
-- 🎓 **MS in Computer Engineering** (In progress)
-- 🥇 Contributed to **Drozone** and **Artpark** with impactful cloud solutions and AI innovations.
-
----
-
 ### 🌟 Featured Projects
 - [ChadStock - AI-Powered Trading Bot](https://github.com/astronova001/chadstock): A Reinforcement Learning-based Trading Bot with Sentiment Analysis.
   - **Technologies**: Python, TensorFlow, Docker

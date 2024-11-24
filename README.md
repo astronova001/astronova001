@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-![Header](./github-header-image (2).png)
+![Header](./vivek_banner.jpeg)
   
 ### Hey there! 👋 I'm VIVEK B S
 <a href="https://github.com/astronova001" target="_blank"> 

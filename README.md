@@ -1,7 +1,6 @@
 # Welcome to My GitHub Profile
 
-<a href="https://github.com/astronova001" target="_blank"> 
-<img src=[https://img.shields.io/badge/github-%2324292e.svg?&](https://github.com/astronova001/vivek_banner.jpeg)style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> </a>
+[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/astronova001)
   
 ### Hey there! 👋 I'm VIVEK B S
 <a href="https://github.com/astronova001" target="_blank"> 

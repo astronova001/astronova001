@@ -53,14 +53,6 @@
 
 ---
 
-### ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Title of the blog post](https://link-to-your-blog.com)
-- [Another Blog Post](https://link-to-your-blog.com)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### 📫 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/-B%20S%20Vivek-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/b-s-vivek/)](https://www.linkedin.com/in/b-s-vivek/)
 [![GitHub](https://img.shields.io/badge/-astronova001-gray?style=flat-square&logo=github&logoColor=white&link=https://github.com/astronova001)](https://github.com/astronova001)

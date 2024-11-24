@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/astronova001)
+[![GitHub](https://github.com/astronova001/vivek_banner.jpeg)](https://github.com/astronova001)
   
 ### Hey there! 👋 I'm VIVEK B S
 <a href="https://github.com/astronova001" target="_blank"> 

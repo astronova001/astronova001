@@ -56,7 +56,6 @@
 
 ### 📊 GitHub Stats
 ![Vivek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=astronova001&theme=radical&hide_border=true)
-![Vivek's Activity Graph](https://activity-graph.herokuapp.com/graph?username=astronova001&theme=github)
 
 ---
 

@@ -29,9 +29,6 @@
 - [ChadStock - AI-Powered Trading Bot](https://github.com/astronova001/chadstock): A Reinforcement Learning-based Trading Bot with Sentiment Analysis.
   - **Technologies**: Python, TensorFlow, Docker
   - ![Stars](https://img.shields.io/github/stars/astronova001/chadstock?style=social) ![Forks](https://img.shields.io/github/forks/astronova001/chadstock?style=social)
-- [Drozone](https://github.com/subhashbs36/drozone): A cutting-edge cloud solution with AI integration.
-  - **Technologies**: AWS, Django, TensorFlow
-  - ![Stars](https://img.shields.io/github/stars/subhashbs36/drozone?style=social) ![Forks](https://img.shields.io/github/forks/subhashbs36/drozone?style=social)
 
 ---
 

@@ -58,7 +58,7 @@
 ---
 
 ### ⚡ Fun fact:
-I'm a trader who loves analyzing markets and a web developer passionate about building user-friendly applications!
+I'm an AI/ML enthusiast with a passion for analyzing data and designing intuitive user interfaces!
 
 ---
 

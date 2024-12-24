@@ -37,7 +37,7 @@
 
 - [AI-Driven-Payment-Fraud-Detection](https://github.com/astronova001/AI-Driven-Payment-Fraud-Detection.git): A web app to detect fraudulent transactions using a random forest algorithm.
   - **Technologies**: Python, Flask, Scikit-learn, NumPy, Pandas, HTML/CSS (Bootstrap) , JavaScript
-  - ![Stars](https://img.shields.io/github/stars/astronova001/Al-Driven-Payment-Fraud-Detection?style=social) ![Forks](https://img.shields.io/github/forks/astronova001/Al-Driven-Payment-Fraud-Detection?style=social)
+  - ![Stars](https://img.shields.io/github/stars/astronova001/AI-Driven-Payment-Fraud-Detection?style=social) ![Forks](https://img.shields.io/github/forks/astronova001/AI-Driven-Payment-Fraud-Detection?style=social)
 
 ---
 
@@ -51,7 +51,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white)
 
 ![Skill Bars](https://github-readme-stats.vercel.app/api/top-langs/?username=astronova001&layout=compact&hide=html&theme=radical)
 

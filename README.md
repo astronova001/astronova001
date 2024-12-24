@@ -26,31 +26,45 @@
 ---
 
 ### 🌟 Featured Projects
-- [ChadStock - AI-Powered Trading Bot](https://github.com/astronova001/chadstock): A Reinforcement Learning-based Trading Bot with Sentiment Analysis.
-  - **Technologies**: Python, TensorFlow, Docker
-  - ![Stars](https://img.shields.io/github/stars/astronova001/chadstock?style=social) ![Forks](https://img.shields.io/github/forks/astronova001/chadstock?style=social)
+
+- [Krushak-Agri-Chat-Bot](https://github.com/astronova001/Krushak-Agri-Chat-Bot.git): A project using Gemini API to build an Agri chatbot with a ChatGPT-like interface and WhatsApp integration, supporting multiple languages and voice.
+  - **Technologies**: Python, JavaScript ,Django, Google Gemini API, HTML/CSS (Bootstrap)
+  - ![Stars](https://img.shields.io/github/stars/astronova001/Krushak-Agri-Chat-Bot?style=social) ![Forks](https://img.shields.io/github/forks/astronova001/Krushak-Agri-Chat-Bot?style=social)
+
+- [Payment-URL-Phishing-Detection](https://github.com/astronova001/Payment-URL-Phishing-Detection.git): A project using multiple models to detect phishing URLs.
+  - **Technologies**: Python, Flask, Scikit-learn, NumPy, Pandas, Requests, HTML/CSS (Bootstrap)
+  - ![Stars](https://img.shields.io/github/stars/astronova001/Payment-URL-Phishing-Detection?style=social) ![Forks](https://img.shields.io/github/forks/astronova001/Payment-URL-Phishing-Detection?style=social)
+
+- [AI-Driven-Payment-Fraud-Detection](https://github.com/astronova001/AI-Driven-Payment-Fraud-Detection.git): A web app to detect fraudulent transactions using a random forest algorithm.
+  - **Technologies**: Python, Flask, Scikit-learn, NumPy, Pandas, HTML/CSS (Bootstrap) , JavaScript
+  - ![Stars](https://img.shields.io/github/stars/astronova001/Al-Driven-Payment-Fraud-Detection?style=social) ![Forks](https://img.shields.io/github/forks/astronova001/Al-Driven-Payment-Fraud-Detection?style=social)
 
 ---
 
 ### 🛠️ Technical Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) 
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ![Skill Bars](https://github-readme-stats.vercel.app/api/top-langs/?username=astronova001&layout=compact&hide=html&theme=radical)
 
 ---
 
 ### 📊 GitHub Stats
+
 ![Vivek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=astronova001&theme=radical&hide_border=true)
 
 ---
 
 ### 📫 Connect with Me!
+
 [![LinkedIn](https://img.shields.io/badge/-B%20S%20Vivek-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/b-s-vivek/)](https://www.linkedin.com/in/b-s-vivek/)
 [![GitHub](https://img.shields.io/badge/-astronova001-gray?style=flat-square&logo=github&logoColor=white&link=https://github.com/astronova001)](https://github.com/astronova001)
 [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-ff69b4?style=flat-square)](https://vivekbs.me/)
@@ -58,9 +72,8 @@
 ---
 
 ### ⚡ Fun fact:
+
 I'm an AI/ML enthusiast with a passion for analyzing data and designing intuitive user interfaces!
 
 ---
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=astronova001&&style=flat-square)  
-<br />

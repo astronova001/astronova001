@@ -12,34 +12,51 @@
 <img src=https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
   
----
+---  
 
 ### Glad to see you here!  
-👋 Hi, I’m an Aspiring AI Engineer & Frontend Developer crafting scalable solutions and exploring financial markets. Currently, I’m working on a Reinforcement Learning-based Trading Bot with Sentiment Analysis and Advanced Bot Management Features, called **ChadStock - AI-Powered Trading Bot**.
 
-💡 My expertise extends beyond traditional software development. I’m passionate about the intersection of AI, ML, and financial markets, constantly exploring new ways to harness their transformative potential. I bring a problem-solving mindset and a genuine enthusiasm for tackling complex challenges in technology.
+👋 Hi, I’m an **AI Engineer** and **Frontend Developer** passionate about creating scalable solutions and exploring financial markets.  
 
-🚀 If you're looking for a professional with a robust technical background and a forward-thinking approach, let’s connect!
+🌟 **About Me**:  
+I specialize in the intersection of **AI, ML**, and **financial trading**, and I’m currently working on **ChadStock-RL-Powered-Trading-with-Sentiment-Analysis-For-Risk-Management**, a project combining **Reinforcement Learning** and **sentiment analysis** to manage trading risks effectively. I aim to craft intuitive, data-driven tools that bring innovation to the financial and AI domains.  
 
-🔗 Looking forward to connecting!
+💡 My expertise spans machine learning frameworks, backend technologies, and frontend development, enabling me to build full-stack solutions that are as functional as they are impactful. I love tackling challenging problems and pushing the boundaries of technology.  
 
----
+🚀 **If you're looking for a forward-thinking professional to collaborate on cutting-edge AI/ML projects, let’s connect!**  
 
-### 🌟 Featured Projects
+🔗 Looking forward to building something great together!  
 
-- [Krushak-Agri-Chat-Bot](https://github.com/astronova001/Krushak-Agri-Chat-Bot.git): A project using Gemini API to build an Agri chatbot with a ChatGPT-like interface and WhatsApp integration, supporting multiple languages and voice.
-  - **Technologies**: Python, JavaScript ,Django, Google Gemini API, HTML/CSS (Bootstrap)
-  - ![Stars](https://img.shields.io/github/stars/astronova001/Krushak-Agri-Chat-Bot?style=social) ![Forks](https://img.shields.io/github/forks/astronova001/Krushak-Agri-Chat-Bot?style=social)
+---  
 
-- [Payment-URL-Phishing-Detection](https://github.com/astronova001/Payment-URL-Phishing-Detection.git): A project using multiple models to detect phishing URLs.
-  - **Technologies**: Python, Flask, Scikit-learn, NumPy, Pandas, Requests, HTML/CSS (Bootstrap)
-  - ![Stars](https://img.shields.io/github/stars/astronova001/Payment-URL-Phishing-Detection?style=social) ![Forks](https://img.shields.io/github/forks/astronova001/Payment-URL-Phishing-Detection?style=social)
+### 🌟 Featured Projects  
 
-- [AI-Driven-Payment-Fraud-Detection](https://github.com/astronova001/AI-Driven-Payment-Fraud-Detection.git): A web app to detect fraudulent transactions using a random forest algorithm.
-  - **Technologies**: Python, Flask, Scikit-learn, NumPy, Pandas, HTML/CSS (Bootstrap) , JavaScript
-  - ![Stars](https://img.shields.io/github/stars/astronova001/AI-Driven-Payment-Fraud-Detection?style=social) ![Forks](https://img.shields.io/github/forks/astronova001/AI-Driven-Payment-Fraud-Detection?style=social)
+- [ChadStock-RL-Powered-Trading-with-Sentiment-Analysis-For-Risk-Management](https://github.com/astronova001/ChadStock-RL-Powered-Trading-with-Sentiment-Analysis-For-Risk-Management): A trading bot leveraging **Reinforcement Learning** and **sentiment analysis** for smarter risk management.  
+  - **Technologies**: Python, Flask, React, TensorFlow, NLTK, NumPy, Pandas, Docker  
+  - **Features**:  
+    - RL-based predictive trading strategies  
+    - Sentiment-driven risk mitigation  
+    - Comprehensive backtesting framework  
+    - Planned live trading capabilities  
+  - ![Stars](https://img.shields.io/github/stars/astronova001/ChadStock-RL-Powered-Trading-with-Sentiment-Analysis-For-Risk-Management?style=social)  
+    ![Forks](https://img.shields.io/github/forks/astronova001/ChadStock-RL-Powered-Trading-with-Sentiment-Analysis-For-Risk-Management?style=social)  
 
----
+- [Krushak-Agri-Chat-Bot](https://github.com/astronova001/Krushak-Agri-Chat-Bot.git): A project using Gemini API to build an Agri chatbot with a ChatGPT-like interface and WhatsApp integration, supporting multiple languages and voice.  
+  - **Technologies**: Python, JavaScript, Django, Google Gemini API, HTML/CSS (Bootstrap)  
+  - ![Stars](https://img.shields.io/github/stars/astronova001/Krushak-Agri-Chat-Bot?style=social)  
+    ![Forks](https://img.shields.io/github/forks/astronova001/Krushak-Agri-Chat-Bot?style=social)  
+
+- [Payment-URL-Phishing-Detection](https://github.com/astronova001/Payment-URL-Phishing-Detection.git): A project using multiple models to detect phishing URLs.  
+  - **Technologies**: Python, Flask, Scikit-learn, NumPy, Pandas, Requests, HTML/CSS (Bootstrap)  
+  - ![Stars](https://img.shields.io/github/stars/astronova001/Payment-URL-Phishing-Detection?style=social)  
+    ![Forks](https://img.shields.io/github/forks/astronova001/Payment-URL-Phishing-Detection?style=social)  
+
+- [AI-Driven-Payment-Fraud-Detection](https://github.com/astronova001/AI-Driven-Payment-Fraud-Detection.git): A web app to detect fraudulent transactions using a random forest algorithm.  
+  - **Technologies**: Python, Flask, Scikit-learn, NumPy, Pandas, HTML/CSS (Bootstrap), JavaScript  
+  - ![Stars](https://img.shields.io/github/stars/astronova001/AI-Driven-Payment-Fraud-Detection?style=social)  
+    ![Forks](https://img.shields.io/github/forks/astronova001/AI-Driven-Payment-Fraud-Detection?style=social)  
+
+---  
 
 ### 🛠️ Technical Skills
 

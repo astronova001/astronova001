@@ -38,23 +38,19 @@ I specialize in the intersection of **AI, ML**, and **financial trading**, and I
     - Sentiment-driven risk mitigation  
     - Comprehensive backtesting framework  
     - Planned live trading capabilities  
-  - ![Stars](https://img.shields.io/github/stars/astronova001/ChadStock-RL-Powered-Trading-with-Sentiment-Analysis-For-Risk-Management?style=social)  
-    ![Forks](https://img.shields.io/github/forks/astronova001/ChadStock-RL-Powered-Trading-with-Sentiment-Analysis-For-Risk-Management?style=social)  
+  ![Stars](https://img.shields.io/github/stars/astronova001/ChadStock-RL-Powered-Trading-with-Sentiment-Analysis-For-Risk-Management?style=social)  ![Forks](https://img.shields.io/github/forks/astronova001/ChadStock-RL-Powered-Trading-with-Sentiment-Analysis-For-Risk-Management?style=social)  
 
 - [Krushak-Agri-Chat-Bot](https://github.com/astronova001/Krushak-Agri-Chat-Bot.git): A project using Gemini API to build an Agri chatbot with a ChatGPT-like interface and WhatsApp integration, supporting multiple languages and voice.  
   - **Technologies**: Python, JavaScript, Django, Google Gemini API, HTML/CSS (Bootstrap)  
-  - ![Stars](https://img.shields.io/github/stars/astronova001/Krushak-Agri-Chat-Bot?style=social)  
-    ![Forks](https://img.shields.io/github/forks/astronova001/Krushak-Agri-Chat-Bot?style=social)  
+  ![Stars](https://img.shields.io/github/stars/astronova001/Krushak-Agri-Chat-Bot?style=social)  ![Forks](https://img.shields.io/github/forks/astronova001/Krushak-Agri-Chat-Bot?style=social)  
 
 - [Payment-URL-Phishing-Detection](https://github.com/astronova001/Payment-URL-Phishing-Detection.git): A project using multiple models to detect phishing URLs.  
   - **Technologies**: Python, Flask, Scikit-learn, NumPy, Pandas, Requests, HTML/CSS (Bootstrap)  
-  - ![Stars](https://img.shields.io/github/stars/astronova001/Payment-URL-Phishing-Detection?style=social)  
-    ![Forks](https://img.shields.io/github/forks/astronova001/Payment-URL-Phishing-Detection?style=social)  
+  ![Stars](https://img.shields.io/github/stars/astronova001/Payment-URL-Phishing-Detection?style=social)  ![Forks](https://img.shields.io/github/forks/astronova001/Payment-URL-Phishing-Detection?style=social)  
 
 - [AI-Driven-Payment-Fraud-Detection](https://github.com/astronova001/AI-Driven-Payment-Fraud-Detection.git): A web app to detect fraudulent transactions using a random forest algorithm.  
   - **Technologies**: Python, Flask, Scikit-learn, NumPy, Pandas, HTML/CSS (Bootstrap), JavaScript  
-  - ![Stars](https://img.shields.io/github/stars/astronova001/AI-Driven-Payment-Fraud-Detection?style=social)  
-    ![Forks](https://img.shields.io/github/forks/astronova001/AI-Driven-Payment-Fraud-Detection?style=social)  
+  ![Stars](https://img.shields.io/github/stars/astronova001/AI-Driven-Payment-Fraud-Detection?style=social)  ![Forks](https://img.shields.io/github/forks/astronova001/AI-Driven-Payment-Fraud-Detection?style=social)  
 
 ---  
 

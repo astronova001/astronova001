@@ -40,7 +40,7 @@ trading bot leveraging **Reinforcement Learning** and **sentiment analysis** for
     - Comprehensive backtesting framework  
     - Planned live trading capabilities
     
-  <img src="https://github.com/astronova001/RL-Based-Predictive-Trading-with-Sentiment-Risk-Management-and-Backtesting/blob/main/Results/chd.gif" width="550" /> 
+    <img src="https://github.com/astronova001/RL-Based-Predictive-Trading-with-Sentiment-Risk-Management-and-Backtesting/blob/main/Results/chd.gif" width="550" /> 
 
 --- 
 

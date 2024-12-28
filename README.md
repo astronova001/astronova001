@@ -33,7 +33,7 @@ I specialize in the intersection of **AI, ML**, and **financial trading**, and I
 
 - [ChadStock-RL-Powered-Trading-with-Sentiment-Analysis-For-Risk-Management](https://github.com/astronova001/ChadStock-RL-Powered-Trading-with-Sentiment-Analysis-For-Risk-Management): A 
 trading bot leveraging **Reinforcement Learning** and **sentiment analysis** for smarter risk management.  
-  - **Technologies**: Python, Flask, React, TensorFlow, NLTK, NumPy, Pandas, Docker  
+  - **Technologies**: Python, Flask, React, TensorFlow, NumPy, Pandas, JavaScript ,HTML/CSS
   - **Features**:  
     - RL-based predictive trading strategies  
     - Sentiment-driven risk mitigation  

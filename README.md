@@ -97,7 +97,7 @@ trading bot leveraging **Reinforcement Learning** and **sentiment analysis** for
 
 ### ⚡ Fun fact:
 
-I'm an AI/ML enthusiast with a passion for analyzing data and designing intuitive user interfaces!
+A new JavaScript framework is created approximately every week, but React is still one of the most loved by developers worldwide!"/
 
 <img src="https://github.com/astronova001/astronova001/blob/main/Scrat_final.gif" width="550" /> 
 

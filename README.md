@@ -37,8 +37,9 @@ I specialize in the intersection of **AI, ML**, and **financial trading**, and I
     - RL-based predictive trading strategies  
     - Sentiment-driven risk mitigation  
     - Comprehensive backtesting framework  
-    - Planned live trading capabilities  
-![Stars](https://img.shields.io/github/stars/astronova001/ChadStock-RL-Powered-Trading-with-Sentiment-Analysis-For-Risk-Management?style=social)  ![Forks](https://img.shields.io/github/forks/astronova001/ChadStock-RL-Powered-Trading-with-Sentiment-Analysis-For-Risk-Management?style=social)  
+    - Planned live trading capabilities
+       
+  ![Stars](https://img.shields.io/github/stars/astronova001/ChadStock-RL-Powered-Trading-with-Sentiment-Analysis-For-Risk-Management?style=social)  ![Forks](https://img.shields.io/github/forks/astronova001/ChadStock-RL-Powered-Trading-with-Sentiment-Analysis-For-Risk-Management?style=social)  
 
 - [Krushak-Agri-Chat-Bot](https://github.com/astronova001/Krushak-Agri-Chat-Bot.git): A project using Gemini API to build an Agri chatbot with a ChatGPT-like interface and WhatsApp integration, supporting multiple languages and voice.  
   - **Technologies**: Python, JavaScript, Django, Google Gemini API, HTML/CSS (Bootstrap)  

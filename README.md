@@ -39,20 +39,31 @@ trading bot leveraging **Reinforcement Learning** and **sentiment analysis** for
     - Sentiment-driven risk mitigation  
     - Comprehensive backtesting framework  
     - Planned live trading capabilities
-       
+     
+    <img src="https://github.com/astronova001/RL-Based-Predictive-Trading-with-Sentiment-Risk-Management-and-Backtesting/blob/main/Results/chd.gif" width="550" /> 
+
+--- 
 
 - [Krushak-Agri-Chat-Bot](https://github.com/astronova001/Krushak-Agri-Chat-Bot.git): A project using Gemini API to build an Agri chatbot with a ChatGPT-like interface and WhatsApp integration, supporting multiple languages and voice.  
   - **Technologies**: Python, JavaScript, Django, Google Gemini API, HTML/CSS (Bootstrap)  
- 
+
+    <img src="https://github.com/astronova001/Krushak-Agri-Chat-Bot/blob/main/Results/krushak%20.gif" width="550" /> 
+ --- 
 
 - [Payment-URL-Phishing-Detection](https://github.com/astronova001/Payment-URL-Phishing-Detection.git): A project using multiple models to detect phishing URLs.  
-  - **Technologies**: Python, Flask, Scikit-learn, NumPy, Pandas, Requests, HTML/CSS (Bootstrap)  
+  - **Technologies**: Python, Flask, Scikit-learn, NumPy, Pandas, Requests, HTML/CSS (Bootstrap)
 
+    <img src="https://github.com/astronova001/Payment-URL-Phishing-Detection/blob/main/results/phishingGIF.gif " width="400" />
+
+--- 
 
 - [AI-Driven-Payment-Fraud-Detection](https://github.com/astronova001/AI-Driven-Payment-Fraud-Detection.git): A web app to detect fraudulent transactions using a random forest algorithm.  
-  - **Technologies**: Python, Flask, Scikit-learn, NumPy, Pandas, HTML/CSS (Bootstrap), JavaScript  
+  - **Technologies**: Python, Flask, Scikit-learn, NumPy, Pandas, HTML/CSS (Bootstrap), JavaScript
+
+    <img src="https://github.com/astronova001/AI-Driven-Payment-Fraud-Detection/blob/main/results/frontpage.png" width="500" />
 
 ---  
+
 
 ### 🛠️ Technical Skills
 

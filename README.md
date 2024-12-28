@@ -99,5 +99,7 @@ trading bot leveraging **Reinforcement Learning** and **sentiment analysis** for
 
 I'm an AI/ML enthusiast with a passion for analyzing data and designing intuitive user interfaces!
 
+<img src="https://github.com/astronova001/astronova001/blob/main/Scrat_final.gif" width="550" /> 
+
 ---
 ![Profile views counter](https://komarev.com/ghpvc/?username=astronova001&&style=flat-square)  

@@ -60,7 +60,7 @@ trading bot leveraging **Reinforcement Learning** and **sentiment analysis** for
 - [AI-Driven-Payment-Fraud-Detection](https://github.com/astronova001/AI-Driven-Payment-Fraud-Detection.git): A web app to detect fraudulent transactions using a random forest algorithm.  
   - **Technologies**: Python, Flask, Scikit-learn, NumPy, Pandas, HTML/CSS (Bootstrap), JavaScript
 
-    <img src="https://github.com/astronova001/Payment-URL-Phishing-Detection/blob/main/results/phishingGIF.gif" width="500" />
+    <img src="https://github.com/astronova001/AI-Driven-Payment-Fraud-Detection/blob/main/results/PaymentFraudDetection.gif" width="500" />
 
 ---  
 

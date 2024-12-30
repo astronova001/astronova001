@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profiles
+# Welcome to My GitHub Profile
 
 ![Header](./vivek_banner2.png)
   

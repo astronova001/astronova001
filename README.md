@@ -76,6 +76,7 @@ trading bot leveraging **Reinforcement Learning** and **sentiment analysis** for
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white)
+
 ![Skill Bars](https://github-readme-stats.vercel.app/api/top-langs/?username=astronova001&layout=compact&hide=html&theme=radical)
 
 ---
